@@ -1,0 +1,11 @@
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\bin\Debug\netcoreapp2.0\Doddledudes.deps.json
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\bin\Debug\netcoreapp2.0\Doddledudes.runtimeconfig.json
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\bin\Debug\netcoreapp2.0\Doddledudes.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\bin\Debug\netcoreapp2.0\Doddledudes.dll
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\bin\Debug\netcoreapp2.0\Doddledudes.pdb
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.dll
+C:\Users\jacob\source\repos\Doddledudes\Doddledudes\obj\Debug\netcoreapp2.0\Doddledudes.pdb
